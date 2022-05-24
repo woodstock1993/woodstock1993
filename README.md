@@ -5,8 +5,7 @@
 
 <h2>💁‍♂️ Hi, I'm Jae Hwan :)</h2>
 
-![woodstock1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodstock1993&show_icons=true&theme=tokyonight&layout=compact)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woodstock93)](https://solved.ac/woodstock93/)  
+![woodstock1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodstock1993&show_icons=true&theme=tokyonight&layout=compact)   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woodstock93)](https://solved.ac/woodstock93/)  
 <h3>Welcome to my page!</h3>
 🐵 I'm Jae Hwan, Backend developer from Korea
 
