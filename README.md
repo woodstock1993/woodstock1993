@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/Wsq20ZI3cqj96k8rKC/giphy.gif" width="20"> Hi, I'm Jae Hwan :)</h2>
+<h2>Hi, I'm Jae Hwan :)</h2>
 
 ![woodstock1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodstock1993&show_icons=true&theme=tokyonight&layout=compact)
 
