@@ -1,11 +1,17 @@
+<div align = "right">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories%2Fhit-counter&url=https%3A%2F%2Fgithub.com%2Fwoodstock1993&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+
 <h2>💁‍♂️ Hi, I'm Jae Hwan :)</h2>
 
 ![woodstock1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodstock1993&show_icons=true&theme=tokyonight&layout=compact)
 
-<h3>🐵 Welcome to my page!</h3>
-I'm Jae Hwan, Backend developer from Seoul, Korea
+<h3>Welcome to my page!</h3>
+🐵 I'm Jae Hwan, Backend developer from Korea
 
-<h3>🌐 Tool && Language && Framework</h3>
+## 🌐 Stack
 <p>
   <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=fla&logo=github&logoColor=white" />
   <img alt="Intellij IDEA" src="https://img.shields.io/badge/-Intellij IDEA-000000?style=flat&logo=Intellij IDEA&logoColor=white"/>
